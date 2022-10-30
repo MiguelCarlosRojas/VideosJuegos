@@ -1,4 +1,4 @@
-VIDEOSJUEGOS 2022 Piedra, Papel o Tijera (Miguel A. edition)
+Piedra, Papel o Tijera 2022 (Miguel A. edition)
 ===============================
 
 Escribí la implementación original del [Miguel A. Piedra, Papel o Tijera][Papel] en JavaScript generado pesaba 2 MB, lo cual es bastante malo considerando lo trivial que es esta aplicación web de una sola página.
