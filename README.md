@@ -1,7 +1,7 @@
 Piedra, Papel o Tijera 2022 (Miguel A. edition)
 ===============================
 
-Escribí la implementación original del [Miguel A. Piedra, Papel o Tijera][Papel] en JavaScript generado pesaba 2 MB, lo cual es bastante malo considerando lo trivial que es esta aplicación web de una sola página.
+Escribí una version similar al videojuego del propietario fedeperin, esta creacion es original propio del [Miguel A. 2022 Piedra, Papel o Tijera][Papel] en Html pesaba por lo mucho 2 GB, cual es bastante bueno considerando que esta aplicación web esta en una sola página.
 
 No creáis que el mundo de la programación de videojuegos es un camino de rosas. A mi parecer es el entorno más complicado dentro de todas las salidas profesionales relacionadas con el desarrollo. 
 
