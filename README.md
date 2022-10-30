@@ -1,7 +1,7 @@
 Piedra, Papel o Tijera 2022 (Miguel A. edition)
 ===============================
 
-Escribí una version similar al videojuego deL propietario fedeperin; esta creacion es original propio del usuario [Miguel A. 2022 Piedra, Papel o Tijera][Papel] en Html pesa por lo mucho 8KB, cual es banate ligero y poco pesado, bueno considerando que esta videojuego esta en una sola página.
+Escribí una version similar del propietario fedeperin; esta creacion es original propio del usuario [Miguel A. 2022 Piedra, Papel o Tijera][Papel] en Html pesa por lo mucho 8KB, cual es banate ligero y poco pesado, bueno considerando que esta videojuego esta en una sola página.
 
 No creáis que el mundo de la programación de videojuegos es un camino de rosas. A mi parecer es el entorno más complicado dentro de todas las salidas profesionales relacionadas con el desarrollo. 
 
